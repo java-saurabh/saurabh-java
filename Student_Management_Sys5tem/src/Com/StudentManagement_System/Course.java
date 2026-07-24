@@ -1,0 +1,7 @@
+package Com.StudentManagement_System;
+
+public class Course {
+	int cid;
+	String cname;
+	
+}

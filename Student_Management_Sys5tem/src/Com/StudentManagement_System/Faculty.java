@@ -1,0 +1,7 @@
+package Com.StudentManagement_System;
+
+public class Faculty {
+	int fid;
+	String fname;
+	Batch b =  new Batch();
+}
