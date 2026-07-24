@@ -4,6 +4,7 @@ public class Batch {
 	int bid;
 	String bname;
 	Course c = new Course();
+	
 }
 
 
